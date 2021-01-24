@@ -1,2 +1,4 @@
 initial code
 FEATURE A CODE
+FEATURE B CODE
+
